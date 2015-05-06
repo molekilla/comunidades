@@ -11,3 +11,7 @@ Acá las diferentes comunidades de cada pais van estar encargadas de ayudar a lo
 # Argentina
 
 - [meetup-js](http://www.meetup.com/meetup-js)
+
+# Panama
+
+- [ng-panama](https://github.com/ng-panama/origin-group)
